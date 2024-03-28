@@ -11,7 +11,7 @@
 
 一个插件化、定制化、无广告的免费音乐播放器，目前只支持 Android 和 Harmony OS。
 
-> **桌面版来啦：<https://github.com/maotoumao/MusicFreeDesktop>**
+> **桌面版来啦：<https://github.com/roydevchan/free-music>**
 
 如果需要了解后续进展可以关注公众号↓；如果有问题可以在 issue 区或者公众号直接留言反馈。
 
